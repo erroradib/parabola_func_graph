@@ -1,0 +1,1 @@
+# parabola_func_graph
